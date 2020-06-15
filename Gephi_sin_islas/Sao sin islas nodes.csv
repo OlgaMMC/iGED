@@ -1,0 +1,92 @@
+Id,Label,timeset,d1,d0,indegree,outdegree,Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class,clustering,eigencentrality
+Apex-Brasil,Apex-Brasil,,1.8,Habilitador,3,0,3,0,0,0,0,5,0.333333,0.306312
+The Next Company,The Next Company,,1.2,Habilitador,2,0,2,0,0,0,0,0,1,0.518824
+Amani Institute,Amani Institute,,0.6,Habilitador,1,2,3,1,1,1,72.75,4,0,0.148184
+Astella Investimentos,Astella Investimentos,,2.2,Habilitador,2,1,3,8,0.189055,0.220426,39.019048,0,0.5,0.518824
+Kaszek Ventures,Kaszek Ventures,,1.2,Habilitador,1,1,2,7,0.227545,0.271209,0,0,1,0.2185
+WeWork Labs,WeWork Labs,,1.6,Habilitador,5,13,18,6,0.286792,0.407237,667.069048,0,0.0625,0.715138
+InvestSP,InvestSP,,2.4,Articulador,2,7,9,6,0.327586,0.40636,686.919048,1,0.142857,0.218487
+YBI,YBI,,1,Vinculador,0,2,2,2,0.75,0.833333,0,4,0.5,0
+Samsung,Samsung,,2.4,Habilitador,2,1,3,7,0.224189,0.273684,43.752381,0,0.333333,0.389664
+UNIFESP,UNIFESP,,1.2,Generador de Conocimiento,1,1,2,2,0.545455,0.583333,11.95,5,0,0.062298
+Oracle for Startups,Oracle for Startups,,0.6,Habilitador,2,2,4,8,0.189526,0.227005,40,0,0,0.212587
+Visa,Visa,,2.2,Habilitador,1,2,3,8,0.210526,0.262907,0,0,0.5,0.150559
+UFSCAR,UFSCAR,,0.6,Generador de Conocimiento,2,0,2,0,0,0,0,3,0.5,0.022416
+Unesp,Unesp,,1.6,Generador de Conocimiento,2,1,3,8,0.214689,0.25661,210.45,5,0,0.081608
+Bid Lab,Bid Lab,,2.8,Habilitador,3,0,3,0,0,0,0,4,0.166667,0.025533
+The Brazilian Report,The Brazilian Report,,0.6,Promotor,0,2,2,1,1,1,0,3,0,0
+100 Open Startups,100 Open Startups,,1.6,Vinculador,2,0,2,0,0,0,0,1,1,0.170645
+Parabolt,Parabolt,,0.6,Articulador,1,5,6,7,0.254072,0.319933,77,1,0,0.009836
+Google for Startups,Google for Startups,,2.2,Habilitador,2,0,2,0,0,0,0,5,0,0.213855
+IndicatorCapital,IndicatorCapital,,0.6,Habilitador,3,7,10,8,0.205405,0.291917,202.9,0,0,0.079888
+Liga Ventures,Liga Ventures,,2.2,Habilitador,1,2,3,7,0.242038,0.305639,135.566667,0,0.333333,0.2185
+Sebrae SP,Sebrae SP,,9.6,Habilitador,7,5,12,5,0.361905,0.423904,1388.833333,2,0.075758,0.438246
+Techno Park,Techno Park,,0.6,Habilitador,1,7,8,7,0.294574,0.382519,157.12619,1,0.166667,0.081304
+CCTI Desenvolvimento Econômico SP,CCTI Desenvolvimento Econômico SP,,6.4,Articulador,10,9,19,7,0.269504,0.361905,963.609524,2,0.055556,0.485377
+UNISO,UNISO,,0.8,Habilitador,2,0,2,0,0,0,0,3,0.5,0.022416
+Instituto Butantan,Instituto Butantan,,0.6,Generador de Conocimiento,2,5,7,1,1,1,6.45,2,0.119048,0.207091
+Cubo,Cubo,,5.2,Habilitador,8,1,9,7,0.227545,0.271209,340.461905,0,0.097222,0.963057
+CIETEC,CIETEC,,1.8,Habilitador,3,9,12,6,0.302789,0.389474,224.5,2,0.083333,0.08979
+FIESP,FIESP,,1.4,Vinculador,1,1,2,7,0.234756,0.27214,15,2,0,0.003106
+Estação Hack,Estação Hack,,1.2,Habilitador,1,1,2,7,0.227545,0.271209,0,0,1,0.2185
+Artemisia,Artemisia,,1.2,Habilitador,2,0,2,0,0,0,0,4,0,0.049667
+Parquetecsorocaba,Parquetecsorocaba,,0.6,Habilitador,2,8,10,8,0.2,0.284649,325.75,3,0.069444,0.031653
+Prefeitura de Sorocaba,Prefeitura de Sorocaba,,2.6,Articulador,2,1,3,9,0.167033,0.206292,223.75,4,0,0.065871
+Desenvolve SP,Desenvolve SP,,1.4,Habilitador,1,1,2,8,0.215909,0.257362,10.333333,2,0,0.015686
+Campinas Tech,Campinas Tech,,1.2,Vinculador,1,1,2,9,0.211699,0.252543,0,1,1,0.08934
+FFCi,FFCi,,2.6,Vinculador,2,0,2,0,0,0,0,1,1,0.170645
+BrazilLAB,BrazilLAB,,1,Habilitador,1,9,10,6,0.281481,0.371053,495.5,4,0.022222,0.150559
+Kyvo Design,Kyvo Design,,1.6,Habilitador,3,4,7,7,0.248366,0.317043,563.542857,0,0.133333,0.495069
+Grão Investimentos,Grão Investimentos,,1.4,Habilitador,2,0,2,0,0,0,0,0,1,0.518824
+Embrapa,Embrapa,,1.8,Generador de Conocimiento,1,1,2,7,0.229607,0.26015,6.666667,2,0,0.015686
+PUC-SP,PUC-SP,,0.6,Generador de Conocimiento,2,0,2,0,0,0,0,3,0.5,0.022416
+Distrito,Distrito,,1.8,Habilitador,3,0,3,0,0,0,0,0,0,0.105938
+USP,USP,,6.4,Generador de Conocimiento,11,0,11,0,0,0,0,3,0.036364,0.477254
+CPS,CPS,,1.2,Habilitador,1,1,2,8,0.213483,0.254856,0,1,1,0.079943
+Inova Unicamp,Inova Unicamp,,4,Habilitador,5,6,11,8,0.266667,0.35166,362.585714,1,0.111111,0.200832
+SP Ventures,SP Ventures,,0.6,Habilitador,1,9,10,6,0.311475,0.390132,266.916667,2,0,0.033323
+FACENS,FACENS,,0.2,Habilitador,2,0,2,0,0,0,0,3,0.5,0.022416
+FGV,FGV,,2,Generador de Conocimiento,2,0,2,0,0,0,0,3,0,0.006212
+Bank of America,Bank of America,,1.6,Habilitador,2,0,2,0,0,0,0,4,0,0.053302
+AUSPIN,AUSPIN,,2.6,Habilitador,2,1,3,7,0.228228,0.259054,41.333333,2,0.166667,0.119099
+ABDI,ABDI,,1.2,Articulador,2,0,2,0,0,0,0,5,1,0.273047
+NEU,NEU,,1.2,Comunidad,2,0,2,0,0,0,0,5,0,0.036563
+Finep,Finep,,4,Articulador,4,0,4,0,0,0,0,2,0.166667,0.267373
+ABstartups,ABstartups,,3.6,Vinculador,5,7,12,6,0.302789,0.376316,967.038095,5,0.109091,0.707626
+AMCHAM Brasil,AMCHAM Brasil,,2.8,Vinculador,3,5,8,7,0.258503,0.322431,161.25,1,0.071429,0.049842
+WeWork,WeWork,,2.2,Habilitador,8,10,18,6,0.292308,0.394298,1097.378571,0,0.069853,1
+Aliança Empreendedora,Aliança Empreendedora,,0.6,Habilitador,1,2,3,1,1,1,1,4,0.166667,0.003106
+AgTech Garage,AgTech Garage,,1.8,Habilitador,1,1,2,7,0.239748,0.273966,236.916667,2,0,0.08934
+UNICAMP,UNICAMP,,2.6,Generador de Conocimiento,3,0,3,0,0,0,0,1,0.333333,0.18048
+Impact Hub,Impact Hub,,1.2,Habilitador,2,0,2,0,0,0,0,4,0,0.097571
+Din4mo,Din4mo,,0.6,Habilitador,0,2,2,1,1,1,0,4,0,0
+SENAI,SENAI,,1.2,Habilitador,2,0,2,0,0,0,0,2,0,0.042262
+CPqD,CPqD,,1.2,Generador de Conocimiento,3,11,14,7,0.286792,0.385808,670.947619,1,0.032051,0.245723
+Santander,Santander,,2.6,Habilitador,1,2,3,8,0.208108,0.246722,12.666667,1,0.166667,0.003106
+Inovabra,Inovabra,,6.8,Habilitador,6,3,9,7,0.239748,0.307832,318.697619,0,0.097222,0.454267
+MCTIC,MCTIC,,5.4,Articulador,8,0,8,0,0,0,0,1,0.053571,0.331136
+IPEN,IPEN,,1.6,Generador de Conocimiento,2,0,2,0,0,0,0,2,0.5,0.042262
+FAPESP,FAPESP,,4.6,Habilitador,4,0,4,0,0,0,0,2,0.166667,0.315993
+Anjos do Brasil,Anjos do Brasil,,2.2,Vinculador,3,0,3,0,0,0,0,1,0,0.124424
+Nós Innovators,Nós Innovators,,0.6,Habilitador,0,7,7,6,0.303502,0.375855,0,2,0.071429,0
+Desenvolvimento Econômico SP,Desenvolvimento Econômico SP,,2,Articulador,2,0,2,0,0,0,0,2,0.5,0.261151
+ICE,ICE,,1.4,Habilitador,2,0,2,0,0,0,0,4,0,0.054116
+BNDES,BNDES,,5.4,Habilitador,6,0,6,0,0,0,0,2,0.1,0.885001
+Endeavor,Endeavor,,4,Habilitador,2,2,4,7,0.231707,0.285025,154.769048,0,0.166667,0.21958
+Monashees,Monashees,,0.6,Habilitador,0,3,3,1,1,1,0,5,0,0
+IPT,IPT,,1.6,Generador de Conocimiento,2,0,2,0,0,0,0,2,0.5,0.261151
+gA,gA,,2,Habilitador,1,1,2,8,0.203125,0.234982,0,1,0,0.009836
+ACE,ACE,,1.6,Habilitador,1,1,2,9,0.173516,0.217434,19.833333,0,0,0.015686
+Prefeitura de São Paulo,Prefeitura de São Paulo,,1,Articulador,0,6,6,9,0.170354,0.242574,0,3,0.166667,0
+Baita Aceleradora,Baita Aceleradora,,2.2,Habilitador,1,2,3,8,0.238245,0.291573,4.5,1,0.666667,0.033265
+Startup Farm,Startup Farm,,1.4,Habilitador,0,2,2,7,0.234756,0.302597,0,0,0,0
+AUIN,AUIN,,0.6,Habilitador,0,5,5,8,0.238671,0.314346,0,2,0,0
+PqTec,PqTec,,2.2,Habilitador,3,0,3,0,0,0,0,2,0,0.111965
+Canary,Canary,,1.2,Habilitador,1,1,2,7,0.227545,0.271209,0,0,1,0.2185
+Nexus,Nexus,,1.2,Habilitador,1,8,9,6,0.300395,0.378509,147.266667,5,0.053571,0.210748
+ParqTec,ParqTec,,0.6,Habilitador,2,5,7,6,0.292308,0.354386,154,2,0.047619,0.057258
+Portal StartSe,Portal StartSe,,1.2,Habilitador,2,0,2,0,0,0,0,1,0,0.07523
+BNZ,BNZ,,1.2,Habilitador,2,0,2,0,0,0,0,0,1,0.518824
+Orgânica Aceleradora,Orgânica Aceleradora,,1.2,Habilitador,2,0,2,0,0,0,0,0,1,0.518824
+CNPq,CNPq,,2.6,Articulador,2,0,2,0,0,0,0,2,0,0.066464
+ABVCAP,ABVCAP,,1.2,Vinculador,2,0,2,0,0,0,0,0,0,0.036563
