@@ -5,11 +5,27 @@
 <graph edgedefault="directed"><node id="USP">
   <data key="d0">Generador de Conocimiento</data>
   <data key="d1">6.4</data>
+<<<<<<< Updated upstream
+=======
+</node>
+<node id="Kyvo Design">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Techno Park">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Instituto Butantan">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.6</data>
+>>>>>>> Stashed changes
 </node>
 <node id="Finep">
   <data key="d0">Articulador</data>
   <data key="d1">4.0</data>
 </node>
+<<<<<<< Updated upstream
 <node id="Anjos do Brasil">
   <data key="d0">Vinculador</data>
   <data key="d1">2.2</data>
@@ -59,9 +75,57 @@
   <data key="d1">2.2</data>
 </node>
 <node id="Cubo">
+=======
+<node id="AUIN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Santander">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="SP Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AUSPIN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="AMCHAM Brasil">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="PqTec">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Apex-Brasil">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="UNICAMP">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="Parquetecsorocaba">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ParqTec">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="WeWork Labs">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Samsung">
+>>>>>>> Stashed changes
   <data key="d0">Habilitador</data>
   <data key="d1">5.2</data>
 </node>
+<<<<<<< Updated upstream
 <node id="WeWork">
   <data key="d0">Habilitador</data>
   <data key="d1">2.2</data>
@@ -73,11 +137,33 @@
 <node id="WeWork Labs">
   <data key="d0">Habilitador</data>
   <data key="d1">1.6</data>
+=======
+<node id="Endeavor">
+  <data key="d0">Habilitador</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="InvestSP">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Anjos do Brasil">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="FAPESP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">4.6</data>
+</node>
+<node id="Prefeitura de Sorocaba">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.6</data>
+>>>>>>> Stashed changes
 </node>
 <node id="CPqD">
   <data key="d0">Generador de Conocimiento</data>
   <data key="d1">1.2</data>
 </node>
+<<<<<<< Updated upstream
 <node id="BNDES">
   <data key="d0">Habilitador</data>
   <data key="d1">5.4</data>
@@ -111,14 +197,41 @@
   <data key="d1">6.4</data>
 </node>
 <node id="IndicatorCapital">
-  <data key="d0">Habilitador</data>
+=======
+<node id="Parabolt">
+  <data key="d0">Articulador</data>
   <data key="d1">0.6</data>
 </node>
+<node id="BrazilLAB">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CCTI Desenvolvimento Econômico SP">
+  <data key="d0">Articulador</data>
+  <data key="d1">6.4</data>
+</node>
+<node id="MCTIC">
+  <data key="d0">Articulador</data>
+  <data key="d1">5.4</data>
+</node>
+<node id="Cubo">
+>>>>>>> Stashed changes
+  <data key="d0">Habilitador</data>
+  <data key="d1">5.2</data>
+</node>
+<<<<<<< Updated upstream
 <node id="Parabolt">
   <data key="d0">Articulador</data>
   <data key="d1">0.6</data>
 </node>
 <node id="Inova Unicamp">
+=======
+<node id="Sebrae SP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">9.6</data>
+</node>
+<node id="Visa">
+>>>>>>> Stashed changes
   <data key="d0">Habilitador</data>
   <data key="d1">4.0</data>
 </node>
@@ -126,6 +239,7 @@
   <data key="d0">Habilitador</data>
   <data key="d1">2.2</data>
 </node>
+<<<<<<< Updated upstream
 <node id="Visa">
   <data key="d0">Habilitador</data>
   <data key="d1">2.2</data>
@@ -139,9 +253,21 @@
   <data key="d1">2.2</data>
 </node>
 <node id="BrazilLAB">
-  <data key="d0">Habilitador</data>
-  <data key="d1">1.0</data>
+=======
+<node id="ABstartups">
+  <data key="d0">Vinculador</data>
+  <data key="d1">3.6</data>
 </node>
+<node id="Unesp">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="WeWork">
+>>>>>>> Stashed changes
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<<<<<<< Updated upstream
 <node id="UNICAMP">
   <data key="d0">Generador de Conocimiento</data>
   <data key="d1">2.6</data>
@@ -163,9 +289,53 @@
   <data key="d1">1.6</data>
 </node>
 <node id="Nós Innovators">
+=======
+<node id="Nós Innovators">
   <data key="d0">Habilitador</data>
   <data key="d1">0.6</data>
 </node>
+<node id="CIETEC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Distrito">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Inova Unicamp">
+  <data key="d0">Habilitador</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="IndicatorCapital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Astella Investimentos">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Liga Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="BNDES">
+  <data key="d0">Habilitador</data>
+  <data key="d1">5.4</data>
+</node>
+<node id="Inovabra">
+  <data key="d0">Habilitador</data>
+  <data key="d1">6.8</data>
+</node>
+<node id="Oracle for Startups">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Nexus">
+>>>>>>> Stashed changes
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<<<<<<< Updated upstream
 <node id="FAPESP">
   <data key="d0">Habilitador</data>
   <data key="d1">4.6</data>
@@ -282,6 +452,48 @@
   <data key="d2">3</data>
 </edge>
 <edge source="Astella Investimentos" target="Endeavor">
+=======
+<edge source="Kyvo Design" target="Cubo">
+  <data key="d2">2</data>
+</edge>
+<edge source="Kyvo Design" target="Inovabra">
+  <data key="d2">4</data>
+</edge>
+<edge source="Kyvo Design" target="BrazilLAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="Kyvo Design" target="Visa">
+  <data key="d2">5</data>
+</edge>
+<edge source="Techno Park" target="Apex-Brasil">
+  <data key="d2">3</data>
+</edge>
+<edge source="Techno Park" target="InvestSP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Techno Park" target="Inova Unicamp">
+  <data key="d2">5</data>
+</edge>
+<edge source="Techno Park" target="CCTI Desenvolvimento Econômico SP">
+  <data key="d2">4</data>
+</edge>
+<edge source="Techno Park" target="MCTIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Techno Park" target="AMCHAM Brasil">
+  <data key="d2">1</data>
+</edge>
+<edge source="Techno Park" target="Baita Aceleradora">
+  <data key="d2">3</data>
+</edge>
+<edge source="Instituto Butantan" target="USP">
+  <data key="d2">4</data>
+</edge>
+<edge source="Instituto Butantan" target="BNDES">
+  <data key="d2">5</data>
+</edge>
+<edge source="Instituto Butantan" target="FAPESP">
+>>>>>>> Stashed changes
   <data key="d2">5</data>
 </edge>
 <edge source="Cubo" target="WeWork">
@@ -290,6 +502,7 @@
 <edge source="WeWork" target="WeWork Labs">
   <data key="d2">5</data>
 </edge>
+<<<<<<< Updated upstream
 <edge source="WeWork" target="ABstartups">
   <data key="d2">3</data>
 </edge>
@@ -349,25 +562,111 @@
 </edge>
 <edge source="CPqD" target="Cubo">
   <data key="d2">3</data>
+=======
+<edge source="AUIN" target="PqTec">
+  <data key="d2">3</data>
 </edge>
-<edge source="CIETEC" target="AUSPIN">
-  <data key="d2">5</data>
+<edge source="Santander" target="AMCHAM Brasil">
+  <data key="d2">3</data>
 </edge>
-<edge source="CIETEC" target="CCTI Desenvolvimento Econômico SP">
-  <data key="d2">5</data>
+<edge source="Santander" target="MCTIC">
+  <data key="d2">3</data>
 </edge>
-<edge source="CIETEC" target="Sebrae SP">
-  <data key="d2">5</data>
-</edge>
-<edge source="CIETEC" target="USP">
-  <data key="d2">5</data>
-</edge>
-<edge source="CIETEC" target="FAPESP">
-  <data key="d2">5</data>
-</edge>
-<edge source="CIETEC" target="Finep">
+<edge source="SP Ventures" target="USP">
   <data key="d2">4</data>
 </edge>
+<edge source="SP Ventures" target="BNDES">
+  <data key="d2">5</data>
+</edge>
+<edge source="SP Ventures" target="FAPESP">
+  <data key="d2">5</data>
+</edge>
+<edge source="SP Ventures" target="Finep">
+  <data key="d2">5</data>
+</edge>
+<edge source="SP Ventures" target="Sebrae SP">
+  <data key="d2">5</data>
+</edge>
+<edge source="AUSPIN" target="ParqTec">
+  <data key="d2">5</data>
+</edge>
+<edge source="AMCHAM Brasil" target="Anjos do Brasil">
+  <data key="d2">3</data>
+</edge>
+<edge source="AMCHAM Brasil" target="Cubo">
+  <data key="d2">3</data>
+</edge>
+<edge source="AMCHAM Brasil" target="MCTIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="AMCHAM Brasil" target="Inova Unicamp">
+  <data key="d2">4</data>
+</edge>
+<edge source="Parquetecsorocaba" target="USP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Parquetecsorocaba" target="MCTIC">
+  <data key="d2">2</data>
+</edge>
+<edge source="Parquetecsorocaba" target="Unesp">
+  <data key="d2">3</data>
+</edge>
+<edge source="Parquetecsorocaba" target="Prefeitura de Sorocaba">
+  <data key="d2">5</data>
+</edge>
+<edge source="ParqTec" target="MCTIC">
+  <data key="d2">5</data>
+>>>>>>> Stashed changes
+</edge>
+<edge source="ParqTec" target="CCTI Desenvolvimento Econômico SP">
+  <data key="d2">5</data>
+</edge>
+<edge source="ParqTec" target="Finep">
+  <data key="d2">5</data>
+</edge>
+<<<<<<< Updated upstream
+<edge source="CIETEC" target="Sebrae SP">
+=======
+<edge source="ParqTec" target="Sebrae SP">
+  <data key="d2">5</data>
+</edge>
+<edge source="WeWork Labs" target="ABstartups">
+  <data key="d2">3</data>
+</edge>
+<edge source="WeWork Labs" target="BNDES">
+  <data key="d2">3</data>
+</edge>
+<edge source="WeWork Labs" target="Astella Investimentos">
+  <data key="d2">3</data>
+</edge>
+<edge source="WeWork Labs" target="Liga Ventures">
+  <data key="d2">2</data>
+</edge>
+<edge source="WeWork Labs" target="Cubo">
+  <data key="d2">3</data>
+</edge>
+<edge source="WeWork Labs" target="WeWork">
+>>>>>>> Stashed changes
+  <data key="d2">5</data>
+</edge>
+<edge source="Samsung" target="WeWork Labs">
+  <data key="d2">5</data>
+</edge>
+<<<<<<< Updated upstream
+<edge source="CIETEC" target="FAPESP">
+  <data key="d2">5</data>
+=======
+<edge source="Endeavor" target="WeWork">
+  <data key="d2">3</data>
+</edge>
+<edge source="Endeavor" target="Oracle for Startups">
+  <data key="d2">4</data>
+>>>>>>> Stashed changes
+</edge>
+<edge source="InvestSP" target="CCTI Desenvolvimento Econômico SP">
+  <data key="d2">4</data>
+</edge>
+<<<<<<< Updated upstream
 <edge source="AMCHAM Brasil" target="Anjos do Brasil">
   <data key="d2">3</data>
 </edge>
@@ -396,6 +695,30 @@
   <data key="d2">5</data>
 </edge>
 <edge source="Liga Ventures" target="IndicatorCapital">
+=======
+<edge source="InvestSP" target="ABstartups">
+  <data key="d2">3</data>
+</edge>
+<edge source="InvestSP" target="AUSPIN">
+  <data key="d2">3</data>
+</edge>
+<edge source="InvestSP" target="CIETEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="InvestSP" target="MCTIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="InvestSP" target="Sebrae SP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Prefeitura de Sorocaba" target="Parquetecsorocaba">
+  <data key="d2">5</data>
+</edge>
+<edge source="CPqD" target="USP">
+  <data key="d2">3</data>
+</edge>
+<edge source="CPqD" target="Inova Unicamp">
+>>>>>>> Stashed changes
   <data key="d2">4</data>
 </edge>
 <edge source="CCTI Desenvolvimento Econômico SP" target="FAPESP">
@@ -419,6 +742,7 @@
 <edge source="CCTI Desenvolvimento Econômico SP" target="Instituto Butantan">
   <data key="d2">5</data>
 </edge>
+<<<<<<< Updated upstream
 <edge source="IndicatorCapital" target="Distrito">
   <data key="d2">3</data>
 </edge>
@@ -434,6 +758,11 @@
 <edge source="IndicatorCapital" target="Anjos do Brasil">
   <data key="d2">5</data>
 </edge>
+=======
+<edge source="CPqD" target="Cubo">
+  <data key="d2">3</data>
+</edge>
+>>>>>>> Stashed changes
 <edge source="Parabolt" target="Inovabra">
   <data key="d2">3</data>
 </edge>
@@ -446,6 +775,7 @@
 <edge source="Parabolt" target="AMCHAM Brasil">
   <data key="d2">3</data>
 </edge>
+<<<<<<< Updated upstream
 <edge source="Inova Unicamp" target="CCTI Desenvolvimento Econômico SP">
   <data key="d2">1</data>
 </edge>
@@ -462,6 +792,57 @@
   <data key="d2">5</data>
 </edge>
 <edge source="Baita Aceleradora" target="CPqD">
+=======
+<edge source="BrazilLAB" target="MCTIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="BrazilLAB" target="ABstartups">
+  <data key="d2">3</data>
+</edge>
+<edge source="BrazilLAB" target="Cubo">
+  <data key="d2">3</data>
+</edge>
+<edge source="BrazilLAB" target="PqTec">
+  <data key="d2">3</data>
+</edge>
+<edge source="BrazilLAB" target="Prefeitura de Sorocaba">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCTI Desenvolvimento Econômico SP" target="FAPESP">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCTI Desenvolvimento Econômico SP" target="InvestSP">
+  <data key="d2">4</data>
+</edge>
+<edge source="CCTI Desenvolvimento Econômico SP" target="USP">
+  <data key="d2">2</data>
+</edge>
+<edge source="CCTI Desenvolvimento Econômico SP" target="Cubo">
+  <data key="d2">1</data>
+</edge>
+<edge source="CCTI Desenvolvimento Econômico SP" target="BNDES">
+  <data key="d2">1</data>
+</edge>
+<edge source="CCTI Desenvolvimento Econômico SP" target="Finep">
+  <data key="d2">1</data>
+</edge>
+<edge source="CCTI Desenvolvimento Econômico SP" target="Instituto Butantan">
+  <data key="d2">5</data>
+</edge>
+<edge source="Cubo" target="WeWork">
+  <data key="d2">5</data>
+</edge>
+<edge source="Sebrae SP" target="WeWork Labs">
+  <data key="d2">3</data>
+</edge>
+<edge source="Sebrae SP" target="CCTI Desenvolvimento Econômico SP">
+  <data key="d2">4</data>
+</edge>
+<edge source="Sebrae SP" target="CPqD">
+  <data key="d2">4</data>
+</edge>
+<edge source="Sebrae SP" target="Kyvo Design">
+>>>>>>> Stashed changes
   <data key="d2">3</data>
 </edge>
 <edge source="Visa" target="Kyvo Design">
@@ -470,6 +851,7 @@
 <edge source="Visa" target="Inovabra">
   <data key="d2">1</data>
 </edge>
+<<<<<<< Updated upstream
 <edge source="Endeavor" target="WeWork">
   <data key="d2">3</data>
 </edge>
@@ -513,6 +895,33 @@
   <data key="d2">5</data>
 </edge>
 <edge source="ParqTec" target="Finep">
+=======
+<edge source="Baita Aceleradora" target="Inova Unicamp">
+  <data key="d2">5</data>
+</edge>
+<edge source="Baita Aceleradora" target="CPqD">
+  <data key="d2">3</data>
+</edge>
+<edge source="ABstartups" target="Apex-Brasil">
+  <data key="d2">3</data>
+</edge>
+<edge source="ABstartups" target="Cubo">
+  <data key="d2">3</data>
+</edge>
+<edge source="ABstartups" target="Inovabra">
+  <data key="d2">3</data>
+</edge>
+<edge source="ABstartups" target="Nexus">
+  <data key="d2">3</data>
+</edge>
+<edge source="ABstartups" target="Sebrae SP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Unesp" target="CCTI Desenvolvimento Econômico SP">
+  <data key="d2">2</data>
+</edge>
+<edge source="WeWork" target="WeWork Labs">
+>>>>>>> Stashed changes
   <data key="d2">5</data>
 </edge>
 <edge source="ParqTec" target="Sebrae SP">
@@ -521,6 +930,7 @@
 <edge source="AUIN" target="Santander">
   <data key="d2">5</data>
 </edge>
+<<<<<<< Updated upstream
 <edge source="AUIN" target="CCTI Desenvolvimento Econômico SP">
   <data key="d2">3</data>
 </edge>
@@ -544,28 +954,66 @@
 </edge>
 <edge source="Nós Innovators" target="USP">
   <data key="d2">3</data>
-</edge>
-<edge source="Techno Park" target="Apex-Brasil">
+=======
+<edge source="WeWork" target="Samsung">
   <data key="d2">3</data>
 </edge>
-<edge source="Techno Park" target="InvestSP">
+<edge source="WeWork" target="Astella Investimentos">
   <data key="d2">5</data>
 </edge>
-<edge source="Techno Park" target="Inova Unicamp">
+<edge source="WeWork" target="Kyvo Design">
   <data key="d2">5</data>
 </edge>
-<edge source="Techno Park" target="CCTI Desenvolvimento Econômico SP">
+<edge source="Nós Innovators" target="CIETEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Nós Innovators" target="Distrito">
+  <data key="d2">3</data>
+</edge>
+<edge source="Nós Innovators" target="Inovabra">
+  <data key="d2">5</data>
+</edge>
+<edge source="Nós Innovators" target="Sebrae SP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Nós Innovators" target="USP">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIETEC" target="AUSPIN">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIETEC" target="CCTI Desenvolvimento Econômico SP">
+  <data key="d2">5</data>
+>>>>>>> Stashed changes
+</edge>
+<edge source="CIETEC" target="Sebrae SP">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIETEC" target="USP">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIETEC" target="FAPESP">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIETEC" target="Finep">
   <data key="d2">4</data>
 </edge>
-<edge source="Techno Park" target="MCTIC">
-  <data key="d2">3</data>
-</edge>
-<edge source="Techno Park" target="AMCHAM Brasil">
+<edge source="Inova Unicamp" target="CCTI Desenvolvimento Econômico SP">
   <data key="d2">1</data>
 </edge>
-<edge source="Techno Park" target="Baita Aceleradora">
+<edge source="Inova Unicamp" target="CPqD">
   <data key="d2">3</data>
 </edge>
+<edge source="Inova Unicamp" target="Techno Park">
+  <data key="d2">1</data>
+</edge>
+<edge source="Inova Unicamp" target="UNICAMP">
+  <data key="d2">5</data>
+</edge>
+<edge source="IndicatorCapital" target="Distrito">
+  <data key="d2">3</data>
+</edge>
+<<<<<<< Updated upstream
 <edge source="Instituto Butantan" target="USP">
   <data key="d2">4</data>
 </edge>
@@ -573,6 +1021,61 @@
   <data key="d2">5</data>
 </edge>
 <edge source="Instituto Butantan" target="FAPESP">
+  <data key="d2">5</data>
+=======
+<edge source="IndicatorCapital" target="Cubo">
+  <data key="d2">3</data>
+</edge>
+<edge source="IndicatorCapital" target="Inovabra">
+  <data key="d2">3</data>
+</edge>
+<edge source="IndicatorCapital" target="USP">
+  <data key="d2">3</data>
+</edge>
+<edge source="IndicatorCapital" target="Anjos do Brasil">
+  <data key="d2">5</data>
+</edge>
+<edge source="Astella Investimentos" target="Endeavor">
+  <data key="d2">5</data>
+</edge>
+<edge source="Liga Ventures" target="WeWork">
+  <data key="d2">5</data>
+</edge>
+<edge source="Liga Ventures" target="IndicatorCapital">
+  <data key="d2">4</data>
+</edge>
+<edge source="Inovabra" target="WeWork Labs">
+  <data key="d2">5</data>
+</edge>
+<edge source="Inovabra" target="WeWork">
+  <data key="d2">5</data>
+</edge>
+<edge source="Inovabra" target="Oracle for Startups">
+  <data key="d2">3</data>
+</edge>
+<edge source="Oracle for Startups" target="Distrito">
+  <data key="d2">3</data>
+</edge>
+<edge source="Oracle for Startups" target="Endeavor">
+  <data key="d2">5</data>
+</edge>
+<edge source="Nexus" target="ABstartups">
+  <data key="d2">3</data>
+</edge>
+<edge source="Nexus" target="Anjos do Brasil">
+  <data key="d2">3</data>
+</edge>
+<edge source="Nexus" target="Apex-Brasil">
+  <data key="d2">3</data>
+</edge>
+<edge source="Nexus" target="Sebrae SP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Nexus" target="Unesp">
+  <data key="d2">3</data>
+>>>>>>> Stashed changes
+</edge>
+<edge source="Nexus" target="PqTec">
   <data key="d2">5</data>
 </edge>
 </graph></graphml>
